@@ -2,3 +2,8 @@ pydantic>=2.6
 langchain>=0.1.13
 langchain-core>=0.1.28
 langchain-groq
+langchain-groq
+python-dotenv
+streamlit
+openai
+
